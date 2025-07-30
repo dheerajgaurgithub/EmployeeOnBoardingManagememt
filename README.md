@@ -2,10 +2,7 @@
 
 A full-stack web application for managing employee onboarding. Built using **React.js** (frontend), **Node.js + Express** (backend), and **MongoDB** (database).
 
-## 🌐 Live Demo
-> _Add your deployed URL here (if hosted)_
 
----
 
 ## 📌 Features
 
